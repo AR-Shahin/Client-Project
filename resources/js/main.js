@@ -1,0 +1,1 @@
+const print = (el = "ok") => console.log(el);
